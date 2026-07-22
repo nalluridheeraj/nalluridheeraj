@@ -1,151 +1,152 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dheeraj Nalluri | Portfolio</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-</head>
-<body class="bg-gray-50 text-gray-800 font-sans antialiased">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner">
+</p>
 
-    <!-- Banner Section -->
-    <header class="w-full">
-        <img src="assets/banner.png" alt="Profile Banner" class="w-full h-64 object-cover shadow-md">
-    </header>
+<h1 align="center">Hi 👋, I'm Dheeraj Nalluri</h1>
+<h3 align="center">Full Stack Web Developer | Cloud Solutions Architect | Software Developer</h3>
 
-    <!-- Hero / Intro Section -->
-    <main class="max-w-5xl mx-auto px-6 py-8 -mt-16 relative z-10">
-        <div class="bg-white rounded-xl shadow-lg p-8">
-            <h1 class="text-4xl font-bold text-gray-900">Dheeraj Nalluri</h1>
-            <p class="text-xl text-blue-600 font-medium mt-2">Full Stack Web Developer | Cloud Solutions Architect | Software Developer</p>
-            <p class="text-gray-600 mt-4 leading-relaxed">
-                I am a 3rd-year Computer Science and Engineering (B.Tech) student at Lovely Professional University. I specialize in cloud computing and full-stack web development, building scalable, modern applications.
-            </p>
-            <div class="mt-6 flex space-x-4">
-                <a href="https://github.com/nalluridheeraj" target="_blank" class="text-gray-700 hover:text-black text-2xl transition"><i class="fab fa-github"></i></a>
-                <a href="https://linkedin.com/in/dheerajnalluri" target="_blank" class="text-gray-700 hover:text-blue-700 text-2xl transition"><i class="fab fa-linkedin"></i></a>
-            </div>
-        </div>
+<p align="center">
+  <a href="https://linkedin.com/in/dheerajnalluri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nalluridheeraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-        <!-- Education & Achievements -->
-        <section class="mt-8 grid md:grid-cols-2 gap-8">
-            <div class="bg-white rounded-xl shadow-lg p-8">
-                <h2 class="text-2xl font-bold text-gray-900 border-b pb-2 mb-4"><i class="fas fa-graduation-cap text-blue-500 mr-2"></i> Education</h2>
-                <ul class="space-y-4">
-                    <li>
-                        <h3 class="font-semibold">Lovely Professional University (LPU)</h3>
-                        <p class="text-gray-600 text-sm">B.Tech in Computer Science and Engineering (3rd Year)</p>
-                        <p class="text-gray-500 text-sm">CGPA: 7.55 (75.5%)</p>
-                    </li>
-                    <li>
-                        <h3 class="font-semibold">Narayana Junior College</h3>
-                        <p class="text-gray-600 text-sm">12th Grade | Hyderabad, Telangana</p>
-                    </li>
-                    <li>
-                        <h3 class="font-semibold">Thapar Vidya Vihar High School</h3>
-                        <p class="text-gray-600 text-sm">10th Grade | Kamalapuram, Telangana</p>
-                    </li>
-                </ul>
-            </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+Computing+Enthusiast;Django+%7C+FastAPI+%7C+AWS+%7C+Azure;Building+Scalable+Web+Applications" alt="Typing SVG">
+</p>
 
-            <div class="bg-white rounded-xl shadow-lg p-8">
-                <h2 class="text-2xl font-bold text-gray-900 border-b pb-2 mb-4"><i class="fas fa-trophy text-yellow-500 mr-2"></i> Coding Profiles</h2>
-                <div class="space-y-4">
-                    <div>
-                        <h3 class="font-semibold text-lg text-gray-800">HackerRank</h3>
-                        <div class="flex items-center mt-2">
-                            <span class="w-24 text-gray-600 font-medium">Python:</span>
-                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-yellow-300">5-Star (Gold Level)</span>
-                        </div>
-                        <div class="flex items-center mt-2">
-                            <span class="w-24 text-gray-600 font-medium">SQL:</span>
-                            <span class="bg-yellow-100 text-yellow-800 text-xs font-semibold px-2.5 py-0.5 rounded border border-yellow-300">5-Star (Gold Level)</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+---
 
-        <!-- Technical Skills -->
-        <section class="mt-8 bg-white rounded-xl shadow-lg p-8">
-            <h2 class="text-2xl font-bold text-gray-900 border-b pb-2 mb-4"><i class="fas fa-code text-blue-500 mr-2"></i> Technical Skills</h2>
-            <div class="flex flex-wrap gap-2">
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">Python</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">Django</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">Django REST Framework</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">Java</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">C++</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">C</span>
-                <span class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium border border-blue-200">HTML / CSS / JS</span>
-                <span class="bg-green-50 text-green-700 px-3 py-1 rounded-full text-sm font-medium border border-green-200">AWS</span>
-                <span class="bg-green-50 text-green-700 px-3 py-1 rounded-full text-sm font-medium border border-green-200">Azure</span>
-                <span class="bg-green-50 text-green-700 px-3 py-1 rounded-full text-sm font-medium border border-green-200">Docker</span>
-                <span class="bg-green-50 text-green-700 px-3 py-1 rounded-full text-sm font-medium border border-green-200">Kubernetes</span>
-                <span class="bg-green-50 text-green-700 px-3 py-1 rounded-full text-sm font-medium border border-green-200">Ubuntu</span>
-            </div>
-        </section>
+### 👨‍💻 About Me
 
-        <!-- Projects Section -->
-        <section class="mt-8 mb-12">
-            <h2 class="text-3xl font-bold text-gray-900 mb-6"><i class="fas fa-laptop-code text-blue-500 mr-2"></i> Featured Projects</h2>
-            
-            <div class="grid md:grid-cols-3 gap-6">
-                <!-- VastraX -->
-                <div class="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col hover:shadow-xl transition-shadow duration-300">
-                    <img src="assets/vastrax.png" alt="VastraX Project" class="w-full h-48 object-cover border-b">
-                    <div class="p-6 flex flex-col flex-grow">
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">VastraX</h3>
-                        <p class="text-sm font-semibold text-blue-600 mb-3">Solo Project</p>
-                        <p class="text-gray-600 text-sm flex-grow">A complete fashion e-commerce platform featuring a customized shopping experience, product management, and user authentication.</p>
-                        <div class="mt-4 pt-4 border-t border-gray-100 flex flex-wrap gap-2">
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">Django</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">MySQL</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">HTML/CSS/JS</span>
-                        </div>
-                    </div>
-                </div>
+- 🎓 3rd-year **B.Tech Computer Science and Engineering** student at Lovely Professional University
+- ☁️ Specializing in **Cloud Computing** and **Full Stack Web Development**
+- 💻 Focused on building scalable, production-ready backend systems
+- 🌱 Currently exploring **AWS**, **Azure**, and container orchestration with **Docker/Kubernetes**
+- 📫 Reach me at: **youremail@example.com**
 
-                <!-- Streamify -->
-                <div class="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col hover:shadow-xl transition-shadow duration-300">
-                    <img src="assets/streamify.png" alt="Streamify Project" class="w-full h-48 object-cover border-b">
-                    <div class="p-6 flex flex-col flex-grow">
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Streamify</h3>
-                        <p class="text-sm font-semibold text-blue-600 mb-3">Group Project</p>
-                        <p class="text-gray-600 text-sm flex-grow">A unified music and video streaming platform utilizing remote cloud storage for seamless and robust media delivery.</p>
-                        <div class="mt-4 pt-4 border-t border-gray-100 flex flex-wrap gap-2">
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">Django</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">MySQL</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">Cloudinary</span>
-                        </div>
-                    </div>
-                </div>
+---
 
-                <!-- Sphere -->
-                <div class="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col hover:shadow-xl transition-shadow duration-300">
-                    <img src="assets/sphere.png" alt="Sphere Project" class="w-full h-48 object-cover border-b">
-                    <div class="p-6 flex flex-col flex-grow">
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Sphere - Sovereign Space</h3>
-                        <p class="text-sm font-semibold text-blue-600 mb-3">Team Lead</p>
-                        <p class="text-gray-600 text-sm flex-grow">A decoupled, full-stack mini social media platform designed to provide a highly performant, minimalist, and sovereign networking space.</p>
-                        <div class="mt-4 pt-4 border-t border-gray-100 flex flex-wrap gap-2">
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">React 18 / Vite</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">Tailwind CSS</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">FastAPI</span>
-                            <span class="text-xs font-semibold bg-gray-100 text-gray-600 px-2 py-1 rounded">SQLite</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
+### 🎓 Education
 
-    <!-- Footer -->
-    <footer class="bg-white border-t py-6 mt-12">
-        <div class="text-center text-gray-500 text-sm">
-            &copy; 2026 Dheeraj Nalluri. All rights reserved.
-        </div>
-    </footer>
+| Institution | Details |
+|---|---|
+| **Lovely Professional University (LPU)** | B.Tech CSE (3rd Year) — CGPA: 7.55 |
+| **Narayana Junior College** | 12th Grade, Hyderabad, Telangana |
+| **Thapar Vidya Vihar High School** | 10th Grade, Kamalapuram, Telangana |
 
-</body>
-</html>
+### 🏆 Coding Profiles
+
+| Platform | Achievement |
+|---|---|
+| **HackerRank — Python** | ⭐⭐⭐⭐⭐ 5-Star (Gold Level) |
+| **HackerRank — SQL** | ⭐⭐⭐⭐⭐ 5-Star (Gold Level) |
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="assets/vastrax.png" width="100%"><br>
+<h3 align="center">VastraX</h3>
+<p align="center"><i>Solo Project</i></p>
+<p align="center">A complete fashion e-commerce platform with a customized shopping experience, product management, and user authentication.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white">
+</p>
+</td>
+
+<td width="33%" valign="top">
+<img src="assets/sphere.png" width="100%"><br>
+<h3 align="center">Sphere — Sovereign Space</h3>
+<p align="center"><i>Team Lead</i></p>
+<p align="center">A decoupled, full-stack mini social media platform built for a performant, minimalist, and sovereign networking experience.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white">
+</p>
+</td>
+
+<td width="33%" valign="top">
+<img src="assets/streamify.png" width="100%"><br>
+<h3 align="center">Streamify</h3>
+<p align="center"><i>Group Project</i></p>
+<p align="center">A unified music and video streaming platform using remote cloud storage for seamless, robust media delivery.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white">
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nalluridheeraj&show_icons=true&theme=default&hide_border=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalluridheeraj&layout=compact&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nalluridheeraj&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nalluridheeraj&theme=flat&no-frame=true&row=1&column=6" alt="Trophies">
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/dheerajnalluri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nalluridheeraj">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
