@@ -8,7 +8,7 @@
   <h1>👋 Hi, I'm Dheeraj Nalluri</h1>
   <h3>Backend Developer | Cloud Solutions Architect, from India 🇮🇳</h3>
 
-  [![Email](https://img.shields.io/badge/Email-youremail%40example.com-blue?style=flat-square&logo=gmail)](mailto:dheerajnalluri2@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-dheerajnalluri2%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:dheerajnalluri2@gmail.com)
   [![GitHub followers](https://img.shields.io/github/followers/nalluridheeraj?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/nalluridheeraj)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-dheerajnalluri-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dheerajnalluri)
   ![Profile Views](https://komarev.com/ghpvc/?username=nalluridheeraj&style=flat-square&color=0891b2)
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,java,cpp,c,js" alt="Languages & Frameworks" />
 
   #### Frontend & Design
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend & Design" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend & Design" />
 
   #### Databases
   <p>
@@ -85,6 +85,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajnalluri)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nalluridheeraj)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajnalluri2@gmail.com)
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nalluridheeraj)
 
 </div>
