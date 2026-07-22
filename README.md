@@ -88,7 +88,7 @@
   <h2>📊 GitHub Stats</h2>
   
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.shion.dev/api?username=nalluridheeraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=yashreddy1154&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nalluridheeraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
