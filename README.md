@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="assets/banner.png" alt="Dheeraj Nalluri banner" width="100%">
+  <img src="assets/banner.png" alt="Dheeraj Nalluri banner" height="60%" width="100%">
 </div>
 
 <!-- Introduction -->
