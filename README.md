@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="assets/banner.png" alt="Dheeraj Nalluri banner" height="60%" width="100%">
+  <img src="assets/banner.png" alt="Dheeraj Nalluri banner" width="60%">
 </div>
 
 <!-- Introduction -->
@@ -105,10 +105,10 @@
   <h2>📊 GitHub Stats</h2>
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nalluridheeraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nalluridheeraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalluridheeraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nalluridheeraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nalluridheeraj&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
